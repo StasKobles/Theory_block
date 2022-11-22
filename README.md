@@ -1,17 +1,17 @@
 # Algorithms of search,sort and graphs work
 
-*Linear search
-*Binary search
+* Linear search
+* Binary search
 
-*Selection sort
-*Bubble sort
-*Quick sort
+* Selection sort
+* Bubble sort
+* Quick sort
 
-*Breadth first search
-*Dijkstra's algorithm
-*Tree`s algorithms
+* Breadth first search
+* Dijkstra's algorithm
+* Tree`s algorithms
 
-*Cash data
+* Cash data
 
-*Linked List
-*Binary Tree
+* Linked List
+* Binary Tree
